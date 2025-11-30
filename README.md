@@ -1,81 +1,80 @@
-# 🎰 Emoji Casino
+<div align="center">
 
-A graphical casino game built with **Python** and **CustomTkinter**, featuring multiple mini-games, a player progression system, and detailed statistics tracking.
+# 🎰 Emoji Casino ✨
+### *High Stakes, Cute Vibes*
+
+<br>
+
+> *NOTT modern, graphical casino experience featuring multiple mini-games, a player progression system, and detailed statistics tracking.* 🌸
+
+<br>
+
+![Python](https://img.shields.io/badge/Python-3.x-FF69B4?style=for-the-badge&logo=python&logoColor=white)
+![CustomTkinter](https://img.shields.io/badge/UI-CustomTkinter-blue?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Stats-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Vibes](https://img.shields.io/badge/Vibes-Expensive-pink?style=for-the-badge)
+
+</div>
 
 ---
 
 ## 🌟 About The Project
+**Emoji Casino** is a desktop application that simulates a casino experience with a fun, emoji-based theme but broken animations . 🎀
+---
 
-**Emoji Casino** is a desktop application that simulates a casino experience with a fun, emoji-based theme.  
-Players can try their luck in various games, manage their virtual wallet, collect items, and track their performance over time.  
-The project is designed with a clean, modern UI using the **customtkinter** library.
+## ✨ Game Modes
+*Step right up and test your luck in our 5 signature games!*
+
+| Game | Description |
+| :--- | :--- |
+| **🎡 Classic Wheel** | Spin the three-reel wheel for big prizes! |
+| **🎰 Slot Machine** | The classic casino experience. Match the emojis to win. |
+| **💼 Case Battle** | Open mysterious cases to find valuable items... or nothing at all. |
+| **🎁 Crazy Case** | A high-risk, high-reward version of Case Battle for the brave. |
+| **🪙 Double Game** | A coin flip where the multiplier is fetched in real-time! |
 
 ---
 
-## ✨ Features
-
-### 🎮 Multiple Game Modes
-
-- 🎡 **Classic Wheel** — Spin a three-reel wheel for big prizes.  
-- 🎰 **Slot Machine** — A classic slot machine experience.  
-- 💼 **Case Battle** — Open cases to find valuable items... or nothing at all!  
-- 🎁 **Crazy Case** — A high-risk, high-reward version of the Case Battle.  
-- 🪙 **Double Game** — A coin flip game where the multiplier is fetched in real-time.
+## 🌸 Key Features
 
 ### 🧍 Player Progression
-- Earn XP by playing games to **level up**.  
-- Receive **wallet bonuses** upon leveling up.
-
-### 💰 Economy System
-- Start with a wallet and **manage your funds** across games.  
-- An inventory **"Backpack"** to store and sell items won from cases.
+* **Level Up:** Earn XP by playing games to increase your level.
+### 💰 Economy & Inventory
+* **Wallet:** Manage your funds across all games.
+* **The Backpack:** A dedicated inventory to store and sell the items you win from cases. 🎒
 
 ### 📊 Detailed Statistics
-- All game activities are recorded, including bets, results, and profit/loss.  
-- A dedicated **stats page** provides a summary of your performance, powered by **pandas**.
-
-### 🖥️ Modern GUI
-- A sleek, dark-themed interface built with **customtkinter**.  
-- Multi-frame navigation for a smooth user experience.
+* **Track Everything:** All bets, results, and profits are recorded.
+* **Data Analysis:** A dedicated stats page provides a summary of your performance, powered by **Pandas**. 📈
 
 ---
-
 ## 🛠️ Built With
-
-This project utilizes the following major libraries:
-
-- **Python**  
-- **CustomTkinter**  
-- **Pandas**  
-- **Requests**
-
+This project relies on these amazing libraries:
+* 🐍 **Python 3**
+* 🖼️ **CustomTkinter** (Modern UI)
+* 🐼 **Pandas** (Data & Stats)
+* 🌐 **Requests** (Real-time data fetching)
 ---
 
 ## 🚀 Getting Started
-
-To get a local copy up and running, follow these simple steps.
-
+Ready to play? Follow these simple steps to get the casino running on your machine.
 ### 🧩 Prerequisites
-Make sure you have **Python 3** installed on your system.
+Make sure you have **Python 3** installed.
 
 ### 📦 Installation
-
-Clone the repository:
-
+**1. Clone the repository:**
 ```bash
-git clone https://github.com/CipherS88/emoji-casino.git
+git clone [https://github.com/CipherS88/emoji-casino.git](https://github.com/CipherS88/emoji-casino.git)
 ```
-Navigate to the project directory:
-```
+**2. Navigate to the folder:**
+```bash
 cd emoji-casino
 ```
-
-Install the required packages:
-```
+**3. Install requirements: Note: You only need to install the external libraries. Modules like random, time, and threading are built-in!**
+```bash
 pip install customtkinter pandas requests
 ```
-
-Run the application:
-```
+**4. Run the Casino:**
+```bash
 python 2x.py
 ```
