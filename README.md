@@ -24,6 +24,9 @@
 | ![Screenshot 1](pic/1.png) | ![Screenshot 2](pic/2.png) | ![Screenshot 3](pic/3.png) |
 
 <br>
+
+
+
 ## 🌟 About The Project
 **Emoji Casino** is a desktop application that simulates a casino experience with a fun, emoji-based theme but broken animations . 🎀
 ---
