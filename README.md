@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎰 Emoji Casino ✨
-### *High Stakes, Cute Vibes*
+### *High Stakes, High lost*
 
 <br>
 
@@ -12,7 +12,7 @@
 ![Python](https://img.shields.io/badge/Python-3.x-FF69B4?style=for-the-badge&logo=python&logoColor=white)
 ![CustomTkinter](https://img.shields.io/badge/UI-CustomTkinter-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Stats-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Vibes](https://img.shields.io/badge/Vibes-GOON:>-pink?style=for-the-badge)
+![Vibes](https://img.shields.io/badge/Vibes-uhmmm-pink?style=for-the-badge)
 
 </div>
 
